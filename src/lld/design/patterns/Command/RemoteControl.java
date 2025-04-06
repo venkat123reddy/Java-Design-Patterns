@@ -9,6 +9,7 @@ public class RemoteControl {
     }
     public void buttonPressed() {
         this.slot.execute();
+
     }
 }
 
