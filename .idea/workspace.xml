@@ -5,25 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c80f1c83-3abe-4a11-afbb-f5948ad24a16" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lld/design/questions/ATM/services/AccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lld/design/questions/ATM/services/AccountServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lld/design/questions/linkedIn/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lld/design/questions/linkedIn/models/Comment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lld/design/questions/linkedIn/models/Connection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lld/design/questions/linkedIn/models/JobPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lld/design/questions/linkedIn/models/Like.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lld/design/questions/linkedIn/models/Posts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lld/design/questions/linkedIn/models/Recruiter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lld/design/questions/linkedIn/models/UserProfile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lld/design/questions/linkedIn/services/JobPositionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lld/design/questions/linkedIn/services/JobPositionServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lld/design/questions/linkedIn/services/LinkedInService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lld/design/questions/linkedIn/services/PostServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lld/design/questions/linkedIn/services/PostsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lld/design/questions/linkedIn/services/RecruiterService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lld/design/questions/linkedIn/services/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lld/design/questions/tictactoe/models/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lld/design/questions/tictactoe/models/Ceil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lld/design/questions/tictactoe/models/CeilStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lld/design/questions/tictactoe/models/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lld/design/questions/tictactoe/models/PlayerSymbol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lld/design/questions/tictactoe/models/Position.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lld/design/questions/ATM/models/AccountDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lld/design/questions/ATM/models/AccountDetails.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
